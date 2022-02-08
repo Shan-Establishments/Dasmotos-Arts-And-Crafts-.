@@ -1,0 +1,33 @@
+#heading {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("pattern.webp");
+}
+
+.headings {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#h1 {
+  background-color: mediumspringgreen;
+}
+
+#h2 {
+  background-color: lightcoral;
+}
+
+#h3 {
+  background-color: skyblue;
+}
+
+.sentence {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
