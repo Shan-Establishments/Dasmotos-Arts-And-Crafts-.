@@ -1,10 +1,10 @@
-# Dasmotos-Arts-And-Crafts-.
-This is a HTML and CSS project I created via Codecademy.
-In this project I had to create a fictional arts and crafts website externally, only using the tools I have on my computer.
-##Steps
-I had to: 
-+ Create a folder structure for my project
-+ Create a HTML file to store the structure of my website
-+ Create a CSS file to store the design for my website
+# Dasmotos Arts and Crafts 
+This is a HTML and CSS project I created via [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path). In this project I created a fictional arts and crafts website externally. 
 
-Feel free to look at my code, this was a very exciting project to complete and I know it will help me in the long run.
+### What does the webpage include?
+Using the images from Codecademy I made sure to display the different products the company provides. 
+
+### What programmming language did I use?
+I used HTML and CSS to create this project.
+
+Feel free to look at my project [here]().
